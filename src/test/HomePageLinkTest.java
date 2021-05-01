@@ -9,6 +9,7 @@ import base.Main;
 import pageFactory.HomePage;
 import pageFactory.RegisterPage;
 
+// Testing GitHub
 public class HomePageLinkTest extends Main{
 	HomePage hp;
 	RegisterPage rp;
